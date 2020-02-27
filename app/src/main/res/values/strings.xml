@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">DreamCatcher</string>
+    <string name="dream_title_hint">Enter a title for the crime.</string>
+    <string name="dream_title_label">Title</string>
+    <string name="dream_details_label">Details</string>
+    <string name="dream_realized_label">Realized</string>
+    <string name="dream_deffered_label">Deferred</string>
+    <string name="new_dream">New Dream</string>
+    <string name="share_dream">Share Dream</string>
+    <string name="show_subtitle">Show Subtitle</string>
+    <string name="hide_subtitle">Hide Subtitle</string>
+    <string name="subtitle_format">%1$d dreams</string>
+
+</resources>
